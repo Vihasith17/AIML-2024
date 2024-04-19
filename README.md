@@ -12,3 +12,5 @@
 [LAB-06](https://github.com/Vihasith17/AIML-2024.git)
 # AIML-2024
 [LAB-07](https://github.com/Vihasith17/AIML-2024.git)
+# AIML-2024
+[LAB-8](https://github.com/Vihasith17/AIML-2024.git)
