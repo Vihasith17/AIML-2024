@@ -17,4 +17,4 @@
 # AIML_2024
 [LAB-09](https://github.com/Vihasith17/AIML-2024.git)
 # AIML_2024
-[LAB-10]
+[LAB-10](https://github.com/Vihasith17/AIML-2024.git)
